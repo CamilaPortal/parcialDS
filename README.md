@@ -1,6 +1,6 @@
 # URL de la API en Render
 
-https://parcialds-fbf9.onrender.com/docs
+https://parcialds-fbf9.onrender.com
 
 # Configuración Local del Proyecto
 
